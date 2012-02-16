@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<emulation version="1">
+
+<dpad x="2" y="490" width="100" height="100">
+<label x="0" y="0" width="100" height="100" image="dpad.png"/>
+</dpad>
+
+
+</emulation>
